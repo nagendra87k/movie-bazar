@@ -1,0 +1,10 @@
+[14-Jul-2018 08:49:56 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2413
+[14-Jul-2018 08:50:11 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2413
+[14-Jul-2018 08:50:14 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2413
+[12-Aug-2018 21:17:25 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2292
+[12-Aug-2018 21:17:30 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2292
+[12-Aug-2018 21:17:47 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2292
+[12-Aug-2018 21:18:20 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2292
+[12-Aug-2018 21:18:22 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2292
+[12-Aug-2018 21:18:31 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2292
+[12-Aug-2018 21:18:40 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 8192 bytes) in /home/vjljloy2sjpv/public_html/system/database/DB_query_builder.php on line 2292
